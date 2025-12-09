@@ -1,6 +1,14 @@
 # Links-and-projects
 **A**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**AshbyHQ Job Search**
+
+_Use this format to pull job openings from companies that use AshbyHQ. Swap in any job title and location to get focused results.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:ashbyhq.com
+
+Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:ashbyhq.com_
+
 
 **B**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -57,11 +65,12 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenho
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Lever Job Search**
 
-___This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
+_This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
 
 Link Template: https://www.google.com/search?q=%22JOBTITLE%22+%22LOCATION%22+site:lever.co
 
 Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co_
+
 
 **M**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
