@@ -19,11 +19,17 @@
 
 **G**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**GitHubProfileGenertate**
+
+_A web-based generator that helps you build a sleek GitHub profile README in minutes. Pick your languages, tech stack, projects, socials, and optional stats; it spits out ready-to-copy markdown that makes your profile stand out. Great for anyone who wants a clean, professional GitHub presence without writing everything from scratch.
+
+Link:https://githubprofile.com/_
+
 **GPRM**
 
-_A simple online tool that builds a polished GitHub profile README in minutes. You pick your details, stats, and tech stack, and it generates clean markdown you can paste straight into your profile. Great way to level up your GitHub presence without writing everything from scratch._
+__A simple online tool that builds a polished GitHub profile README in minutes. You pick your details, stats, and tech stack, and it generates clean markdown you can paste straight into your profile. Great way to level up your GitHub presence without writing everything from scratch._
 
-Link: https://gprm.itsvg.in/
+Link: https://gprm.itsvg.in/_
 
 
 **H**
