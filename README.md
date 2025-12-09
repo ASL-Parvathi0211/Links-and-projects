@@ -107,6 +107,13 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co
 
 **O**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**OracleCloud Domain Job Search**
+
+Use this search format to find openings at companies hosting their career pages under oraclecloud.com. Replace the job title and location to get a customized list of relevant roles.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:oraclecloud.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:oraclecloud.com
 
 **P**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
