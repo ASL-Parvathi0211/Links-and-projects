@@ -57,6 +57,13 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenho
 
 **J**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Jobs Portal Search**
+
+This format lets you scan openings across a wide range of company job sites under the jobs. domain. Swap in any job title and location to pull focused listings in seconds.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:jobs
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:jobs
 
 **K**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
