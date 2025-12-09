@@ -20,7 +20,7 @@
 **G**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **GPRM**
-A simple online tool that builds a polished GitHub profile README in minutes. You pick your details, stats, and tech stack, and it generates clean markdown you can paste straight into your profile. Great way to level up your GitHub presence without writing everything from scratch.
+_A simple online tool that builds a polished GitHub profile README in minutes. You pick your details, stats, and tech stack, and it generates clean markdown you can paste straight into your profile. Great way to level up your GitHub presence without writing everything from scratch._
 Link: https://gprm.itsvg.in/
 **H**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
