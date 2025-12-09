@@ -134,6 +134,14 @@ Link:https://profile-readme-generator.com/
 
 **U**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Talent-Domain Job Search**
+
+This search pulls job openings from companies that list roles under the talent.* domain.
+Just replace the job title and location to see relevant opportunities quickly, without visiting each company site individually.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:talent
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:talent
 
 **V**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
