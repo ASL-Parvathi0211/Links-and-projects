@@ -55,6 +55,13 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenho
 
 **L**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Lever Job Search**
+
+___This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
+
+Link Template: https://www.google.com/search?q=%22JOBTITLE%22+%22LOCATION%22+site:lever.co
+
+Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co_
 
 **M**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
