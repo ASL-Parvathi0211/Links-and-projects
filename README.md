@@ -83,6 +83,15 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co
 
 **P**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**PinpointHQ Job Search**
+
+Use this link format to find jobs from companies that hire through PinpointHQ. Swap in any job title and location.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:pinpointhq.com
+
+Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:pinpointhq.com
+
+
 **Profile-Readme-Generator**
 
 An easy online tool that creates a complete GitHub profile README fast. Just enter your details, socials, skills, and projects — it outputs ready-to-paste markdown so your GitHub profile instantly looks sharp. Perfect if you want a clean, professional presence without writing the README yourself.
