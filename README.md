@@ -15,6 +15,14 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:ashbyhq.com
 
 **C**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Careers Site Job Search**
+
+If a company uses a careers.* domain for their openings, this search format brings them all into one place.
+Change the job title and location to whatever you’re targeting, and you’ll get a quick list of relevant roles.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:careers
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:careers
 
 **D**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
