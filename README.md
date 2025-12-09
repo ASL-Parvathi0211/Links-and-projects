@@ -12,6 +12,13 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:ashbyhq.com
 
 **B**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Breezy.HR Job Search**
+
+This link helps you uncover job listings posted by companies using Breezy.HR. Just swap in any job title and location to instantly see relevant opportunities without hopping between sites.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:breezy.hr
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:breezy.hr
 
 **C**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -73,6 +80,13 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:jobs
 
 **K**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Keka.com Job Search**
+
+This search helps you find job openings listed on Keka.com. Simply replace the job title and location to quickly access relevant opportunities without navigating through multiple pages.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:keka.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:keka.com
 
 **L**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -148,6 +162,21 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:talent
 
 **W**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Wellfound Job Search**
+
+This search pulls job postings from companies listed on Wellfound — a hub many startups and tech firms use. Simply swap in your desired job title and location to get a clean list of relevant openings.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:wellfound.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:wellfound.com
+
+**Workable Jobs Search**
+
+This search pulls job openings from companies that post roles on Workable. Swap in any job title and location to get a focused list of opportunities without visiting each company’s careers page.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:jobs.workable.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:jobs.workable.com
 
 **X**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
