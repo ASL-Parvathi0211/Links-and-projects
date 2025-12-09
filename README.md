@@ -15,6 +15,11 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:ashbyh
 
 Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:ashbyhq.com
 
+**Asian Development Bank Institute (ADBI)** (Driving Policy & Research for Asia’s Growth)
+
+ADBI is the think‑tank arm of Asian Development Bank. Based in Tokyo, it conducts deep research and real‑world policy analysis to support sustainable development, capacity building, and long‑term growth across Asia and the Pacific. ADBI offers policy papers, training, and dialogue to help governments and institutions tackle social, economic, and environmental challenges. 
+
+Link: https://www.adb.org/adbi/main
 
 **B**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
