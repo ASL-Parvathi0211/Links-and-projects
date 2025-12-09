@@ -36,7 +36,9 @@ Link: https://gprm.itsvg.in/_
 _Use this link format to pull job listings for any position directly from companies that use Greenhouse. Just replace the role and location.
 
 Link template:https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:greenhouse.io
+
 Link: https://www.google.com/search?q="software+engineer"+"USA"+site:greenhouse.io
+
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenhouse.io_
 
 **H**
