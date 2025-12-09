@@ -53,8 +53,6 @@ Use this link format to pull job listings for any position directly from compani
 
 Link template:https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:greenhouse.io
 
-Link: https://www.google.com/search?q="software+engineer"+"USA"+site:greenhouse.io
-
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenhouse.io
 
 **H**
@@ -98,6 +96,15 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co
 
 **P**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**People-Domain Job Search**
+
+This format pulls job openings from companies that host their careers under the people.* domain.
+Swap the job title and location to target whatever roles you’re after and get a clean set of results in one shot.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:people
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:people
+
 **PinpointHQ Job Search**
 
 Use this link format to find jobs from companies that hire through PinpointHQ. Swap in any job title and location.
