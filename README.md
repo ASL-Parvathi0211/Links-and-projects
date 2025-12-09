@@ -1,7 +1,13 @@
 # Links-and-projects
 **A**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**AshbyHQ Job Search**
+**Android Developers** (Courses & Certification)
+
+Android Developers offers free, structured courses for all levels — from beginner-friendly to advanced — to build Android apps using Kotlin, Jetpack Compose, and modern architecture practices. You can also earn the official Associate Android Developer certification to validate your skills.
+
+Link: https://developer.android.com/courses
+
+**AshbyHQ** (Job Search)
 
 Use this format to pull job openings from companies that use AshbyHQ. Swap in any job title and location to get focused results.
 
@@ -12,7 +18,7 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:ashbyhq.com
 
 **B**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Breezy.HR Job Search**
+**Breezy.HR** (Job Search)
 
 This link helps you uncover job listings posted by companies using Breezy.HR. Just swap in any job title and location to instantly see relevant opportunities without hopping between sites.
 
@@ -22,7 +28,7 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:breezy.
 
 **C**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Careers Site Job Search**
+**Careers Site** (Job Search)
 
 If a company uses a careers.* domain for their openings, this search format brings them all into one place.
 Change the job title and location to whatever you’re targeting, and you’ll get a quick list of relevant roles.
@@ -54,7 +60,7 @@ A simple online tool that builds a polished GitHub profile README in minutes. Yo
 
 Link: https://gprm.itsvg.in/
 
-**Greenhouse Job Search**
+**Greenhouse** (Job Search)
 
 Use this link format to pull job listings for any position directly from companies that use Greenhouse. Just replace the role and location.
 
@@ -80,7 +86,7 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:jobs
 
 **K**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Keka.com Job Search**
+**Keka.com** (Job Search)
 
 This search helps you find job openings listed on Keka.com. Simply replace the job title and location to quickly access relevant opportunities without navigating through multiple pages.
 
@@ -90,7 +96,7 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:keka.co
 
 **L**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Lever Job Search**
+**Lever** (Job Search)
 
 This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
 
@@ -107,7 +113,7 @@ Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co
 
 **O**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**OracleCloud Domain Job Search**
+**OracleCloud Domain** (Job Search)
 
 Use this search format to find openings at companies hosting their career pages under oraclecloud.com. Replace the job title and location to get a customized list of relevant roles.
 
@@ -117,7 +123,7 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:oraclec
 
 **P**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**People-Domain Job Search**
+**People-Domain** (Job Search)
 
 This format pulls job openings from companies that host their careers under the people.* domain.
 Swap the job title and location to target whatever roles you’re after and get a clean set of results in one shot.
@@ -126,7 +132,7 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:people
 
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:people
 
-**PinpointHQ Job Search**
+**PinpointHQ** (Job Search)
 
 Use this link format to find jobs from companies that hire through PinpointHQ. Swap in any job title and location.
 
@@ -155,7 +161,7 @@ Link:https://profile-readme-generator.com/
 
 **U**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Talent-Domain Job Search**
+**Talent-Domain** (Job Search)
 
 This search pulls job openings from companies that list roles under the talent.* domain.
 Just replace the job title and location to see relevant opportunities quickly, without visiting each company site individually.
@@ -169,7 +175,7 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:talent
 
 **W**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Wellfound Job Search**
+**Wellfound** (Job Search)
 
 This search pulls job postings from companies listed on Wellfound — a hub many startups and tech firms use. Simply swap in your desired job title and location to get a clean list of relevant openings.
 
@@ -177,7 +183,7 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:wellfo
 
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:wellfound.com
 
-**Workable Jobs Search**
+**Workable** (Jobs Search)
 
 This search pulls job openings from companies that post roles on Workable. Swap in any job title and location to get a focused list of opportunities without visiting each company’s careers page.
 
