@@ -39,6 +39,12 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:breezy
 
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:breezy.hr
 
+**Busuu** (Learn Languages Online)
+
+Busuu is a platform for learning foreign languages through structured, bite-sized lessons and interaction with native speakers. It supports a wide range of languages and helps users build reading, writing, listening, and speaking skills at their own pace. The site offers free courses plus optional Premium features like grammar exercises, vocabulary training, and offline access — with community feedback helping you improve faster.
+
+Link: https://www.busuu.com/en
+
 **C**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Careers Site** (Job Search)
@@ -49,6 +55,30 @@ Change the job title and location to whatever you’re targeting, and you’ll g
 Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:careers
 
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:careers
+
+**ChatBA** (AI-Powered Slide Deck Generator)
+
+This page belongs to ChatBA, a web tool that uses generative AI to turn simple prompts into complete presentation slide decks within seconds. It’s aimed at professionals, educators, or anyone needing polished slide decks fast, without spending hours on design or layout. The site supports easy input of topics or keywords and automatically builds structured, visually appealing presentations, saving time and effort for users.
+
+Link: https://www.chatba.com/#
+
+**CodeSquire** (AI Coding Assistant for Data Pros)
+
+The website belongs to CodeSquire, an AI‑powered tool that helps data scientists, engineers, and analysts write code faster and more efficiently. It converts plain‑language comments into working code (Python, SQL, etc.), offers real‑time code suggestions, and can even generate complex functions or SQL queries on demand. It integrates with environments like Jupyter, Google Colab, BigQuery, or VS Code — ideal if you want to speed up data pipelines, analytics tasks, or automation with minimal boilerplate
+
+Link: https://codesquire.ai/
+
+**CodeWithCurious Online Store** (Coding Notes & e‑Books Hub)
+
+The page offers a variety of handwritten and digital notes, guides, and coding‑eBooks covering languages and topics like Python, JavaScript, HTML, CSS, data structures and algorithms, web development frameworks, and more. It packages resources as standalone books or bundled combos, aimed at learners seeking clear, concise notes for exam prep or self‑study. The store also includes project‑based resources and claims to support exam preparation, coding skill building, and long‑term learning retention.
+
+Link: https://store.codewithcurious.com/
+
+**CompTIA** (IT Certifications & Training Hub)
+
+The website belongs to CompTIA, a leading vendor‑neutral certification and training provider for IT professionals worldwide. You’ll find information on a wide range of certifications (from foundational like A+, Network+, Security+ to advanced specialties in cloud, data, and cybersecurity), plus resources and training materials to support career growth. The site also connects employers, students, and institutions with a global community aiming to build and validate tech skills.
+
+Link: https://www.comptia.org/en-us/
 
 **D**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -87,6 +117,12 @@ Use this link format to pull job listings for any position directly from compani
 Link template:https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:greenhouse.io
 
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenhouse.io
+
+**Grow with Google** (Free Learning & Career Tools)
+
+Grow with Google is a platform offering free courses, tools, and resources to help individuals build digital skills, advance their careers, or start small businesses. It covers topics like data analytics, cloud computing, career development, and interview preparation — all designed to be accessible to beginners and experienced professionals alike. Users can learn at their own pace and apply new skills directly to job searches or professional growth. The offerings aim to make tech and career‑learning more inclusive and practical for a broad audience.
+
+Link: https://grow.google/
 
 **H**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -148,6 +184,12 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:oraclec
 
 **P**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Pathfinding Visualizer** (Algorithm Animation Playground)
+
+This page hosts an interactive web tool for visually exploring how different path‑finding and maze‑generation algorithms work. You can pick an algorithm (like A*, Dijkstra, BFS, DFS, etc.), add walls or weights on a grid, then watch in real time how the algorithm searches for a path — step by step. It’s a hands‑on way to learn graph theory, algorithm behavior, and see the difference between search strategies and heuristics in action
+
+Link: https://clementmihailescu.github.io/Pathfinding-Visualizer/
+
 **People-Domain** (Job Search)
 
 This format pulls job openings from companies that host their careers under the people.* domain.
@@ -203,6 +245,12 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:talent
 
 **V**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**VisuAlgo** (Visualise Data Structures & Algorithms Online)
+
+This website provides interactive animations that show how data structures and algorithms work step‑by‑step — from basic sorts and lists to complex graph algorithms and dynamic programming. It lets you experiment with inputs, control the flow of execution, and watch how structures evolve or algorithms traverse data. VisuAlgo makes abstract CS concepts much easier to understand, and includes quizzes so you can test your knowledge as you learn.
+
+Link: https://visualgo.net/en
+
 **Voicemaker** (Online Text-to-Speech Converter)
 
 A web tool that turns written text into realistic spoken audio — supporting multiple languages, accents, and voice styles. Ideal for creators working on audiobooks, podcasts, social-media videos, or e-learning content. The audio files you generate can be used commercially and shared freely even after a subscription ends
@@ -226,6 +274,11 @@ The World Health Organization Regional Office for the Eastern Mediterranean (EMR
 
 Link: https://www.emro.who.int/
 
+**WonsultingAI** (Job Search Made Easier)
+
+WonsultingAI is a platform that helps job seekers speed up their search with practical AI tools. You can create resumes, tailor them to roles, craft cover letters, prep for interviews, and track applications all in one place. The site is built to remove guesswork from the job hunt and give users clear, actionable steps to land interviews.
+
+Link: https://app.wonsulting.ai/login
 
 **Workable** (Jobs Search)
 
