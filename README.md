@@ -166,6 +166,11 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:pinpoi
 
 Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:pinpointhq.com
 
+**Playground** (AI-powered Graphic Design & Image Creation)
+
+A web platform that helps you design logos, social-media posts, t-shirts, posters and more — using AI to turn text prompts into visuals or to remix existing designs. It offers a library of templates to jumpstart projects, then lets you tweak styles, layout, and graphics until you get what you want. Good for people without design skills who still need polished artwork fast.
+
+Link: https://playground.com/
 
 **Profile-Readme-Generator**
 
@@ -198,6 +203,11 @@ Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:talent
 
 **V**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Voicemaker** (Online Text-to-Speech Converter)
+
+A web tool that turns written text into realistic spoken audio — supporting multiple languages, accents, and voice styles. Ideal for creators working on audiobooks, podcasts, social-media videos, or e-learning content. The audio files you generate can be used commercially and shared freely even after a subscription ends
+
+Link: https://voicemaker.in/
 
 **W**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
